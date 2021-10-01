@@ -1,6 +1,6 @@
 #-*-coding:utf-8-*-
 #menyambut bulan suci ramadhan
-# coding by Dani/VrX
+# coded by Zar
 import sys
 import os
 import time
